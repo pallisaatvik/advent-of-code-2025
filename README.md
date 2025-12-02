@@ -5,7 +5,7 @@ My solutions to [Advent of Code 2025](https://adventofcode.com/2025/about).
 day | stars
 --- | -----
 01 | ★★
-02 | ❌
+02 | ★★
 03 | ❌
 04 | ❌
 05 | ❌

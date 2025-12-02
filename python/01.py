@@ -53,7 +53,7 @@ def main():
 
   safe = CodeNumber(50)
 
-  for line in open('python/input01.txt'):
+  for line in open('input/input01.txt'):
     safe.read_num(line.strip())
   
   print(safe.zero_count)
